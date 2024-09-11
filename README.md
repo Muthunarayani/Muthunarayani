@@ -3,11 +3,11 @@
 
 - Recent work on **EMS (CRUD)**
 
-- 🌱 I’m currently learning **Springboot,Mysql,React,Java**
+-  I’m currently learning **Springboot,Mysql**
 
 - Expertise in **C**
 
-- 📫 How to reach me **narayanan151956@gmail.com**
+-  How to reach me **narayanan151956@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
