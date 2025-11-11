@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muthunarayani</h1>
+<h1 align="center">Hi 👋, I'm Nandha Kumaaran</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 - Recent work on **EMS (CRUD)**
